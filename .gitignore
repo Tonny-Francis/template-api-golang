@@ -1,0 +1,6 @@
+# Ignorar diretórios temporários
+tmp/
+bin/
+
+# Ignorar envs
+.env
